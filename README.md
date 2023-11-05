@@ -9,6 +9,4 @@ Algumas Task:
 - continue...
 
 Funcoes:
-funcao 1) o programa recebe algo do tipo 001 e retorna um padrao do tipo micangas
-                                         011
-                                         110
+- funcao 1 = o programa recebe algo do tipo [[001][011][101]] e retorna um padrao do tipo micangas
